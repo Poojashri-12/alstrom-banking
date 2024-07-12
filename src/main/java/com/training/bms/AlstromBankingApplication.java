@@ -8,6 +8,7 @@ public class AlstromBankingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlstromBankingApplication.class, args);
+		System.out.println("Alstrom banking app is initialized");
 	}
 
 }
